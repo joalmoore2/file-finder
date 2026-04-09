@@ -1,7 +1,0 @@
-Supabase
-File Finder
-L@tr1ceff203!
-postgresql://postgres:L@tr1ceff203!@db.aebvnblpaobcsfhkoouu.supabase.co:5432/postgres
-postgresql://postgres.aebvnblpaobcsfhkoouu:L@tr1ceff203!@aws-1-us-west-2.pooler.supabase.com:6543/postgres
-
-admin: joalmoore@gmail.com L@tr1cePl203!
