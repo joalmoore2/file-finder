@@ -1,6 +1,6 @@
 import { algoliasearch } from 'algoliasearch'
 
-const client = algoliasearch('T5RHXH6AQF', 'd44af17073798a4451e1a1022dd7db89')
+const client = algoliasearch(process.env.ALGOLIA_APP_ID, process.env.ALGOLIA_WRITE_KEY)
 
 // Fetch all documents from Payload
 const response = await fetch('http://localhost:3000/api/documents?limit=3000&depth=1')
