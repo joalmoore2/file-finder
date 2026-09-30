@@ -1,4 +1,4 @@
-{
+4:40 PM 9/30/2026{
   "name": "file-finder",
   "version": "1.0.0",
   "description": "A blank template to get started with Payload 3.0",
@@ -24,7 +24,7 @@
     "@payloadcms/ui": "3.82.0",
     "algoliasearch": "^5.50.1",
     "cross-env": "^7.0.3",
-    "dotenv": "16.4.7",
+    "dotenv": "^16.6.1",
     "graphql": "^16.8.1",
     "next": "16.2.2",
     "payload": "3.82.0",
